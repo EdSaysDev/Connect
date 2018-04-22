@@ -1,4 +1,4 @@
-# 'connect' Module
+# 'Connect' Module
 
 ### Overview
 'connect' is a module for connecting to devices via a serial connection.
