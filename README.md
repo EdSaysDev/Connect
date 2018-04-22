@@ -64,7 +64,6 @@ connect.openPort(port=None,**kwargs)
 ```
 
 Opens the specified port name
-
 ```python
 connect.setup()
 ```
@@ -128,6 +127,6 @@ To install:
 1)  Download (if you haven't already) pip.
 2)  Download the module as a zip.
 3)  Extract the files.
-4)  Open up a terminal window, and type "cd [the directory path of the setup.py file]" (excluding the quotation marks)
-5)  Then type "pip install ." (again, excluding the quotation marks)
+4)  Open up a terminal window, and type `cd [the directory path of the setup.py file]`
+5)  Then type `pip install .`
 
