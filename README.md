@@ -97,11 +97,11 @@ connect.connect(device=None,deviceVID=None,**kwargs)
   
   Methods:
     
-    The methods of 'connect' function are those of the standard 'serial.Serial' methods, since it returns a 'serial.Serial' object, and is not a inherentent class.
+The methods of 'connect' function are those of the standard 'serial.Serial' methods, since it returns a 'serial.Serial' object, and is not a inherentent class.
 
 
 
-connect.reset()
+`connect.reset()`
 
   This function, quite simply, resets all device data.
   
